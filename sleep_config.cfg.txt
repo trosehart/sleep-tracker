@@ -1,0 +1,19 @@
+#sample config file#
+
+#watchdog timeout#
+WATCHDOG_TIMEOUT = 6
+
+#log file name#
+LOG_FILE = /home/pi/sleep_log.log
+
+#stat file name#
+ULTRA_STAT_FILE = /home/pi/sleep_ultra_stats.txt
+
+#stat file name#
+SOUND_STAT_FILE = /home/pi/sleep_sound_stats.txt
+
+#report file name#
+REPORT_FILE = /home/pi/sleep_report.txt
+
+#how long program records data for in minutes#
+RUN_LENGTH = 1
